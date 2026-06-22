@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "check": "node --check src/main.js && node --check src/state.js && node --check src/data.js && node --check src/ui/dashboard.js && node --check src/ui/decomposer.js && node --check src/ui/library.js && node --check src/ui/builder.js && node --check src/ui/shell.js"
+  },
+  "devDependencies": {}
+}
